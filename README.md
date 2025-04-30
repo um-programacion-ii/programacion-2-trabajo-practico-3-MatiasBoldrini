@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jpLeSJQi)
 # Sistema de Gestión de Biblioteca - Práctica de Testing
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
@@ -10,9 +11,9 @@
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
 
 ## Identificación del Alumno
-- **Nombre:** [Nombre del Alumno]
-- **Apellido:** [Apellido del Alumno]
-- **Legajo:** [Número de Legajo]
+- **Nombre:** Matías
+- **Apellido:** Boldrini
+- **Legajo:** 61074
 
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
@@ -225,3 +226,17 @@ El uso de Inteligencia Artificial (IA) como herramienta de asistencia en el desa
 - [Documentación de JUnit5](https://junit.org/junit5/docs/current/user-guide/)
 - [Documentación de Mockito](https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html)
 - [Guía de Maven](https://maven.apache.org/guides/)
+
+## Evidencia
+
+### Milestone 1: Configuración Inicial y Pruebas Básicas
+![Evidencia Milestone 1](images/milestone1.png)
+
+### Milestone 2: Implementación del Catálogo
+![Evidencia Milestone 2](images/milestone2.png)
+
+### Milestone 3: Sistema de Préstamos
+![Evidencia Milestone 3](images/milestone3.png)
+
+### Milestone 4: Sistema de Usuarios
+![Evidencia Milestone 4](images/milestone4.png)
